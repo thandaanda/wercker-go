@@ -1,1 +1,1 @@
-web ./go-cities -port 
+web ./wercker-go -port $PORT 
